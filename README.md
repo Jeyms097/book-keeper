@@ -1,7 +1,7 @@
 # Book Keeper
 
 **Book Keeper** is a Laravel 12-based CRUD application for managing **authors** and **books**.  
-It features a clean UI, responsive components, AJAX form handling, and UX using [MDBootstrap](https://mdbootstrap.com/), [DataTables](https://datatables.net/), [Toastify](https://apvarun.github.io/toastify-js/), and [SweetAlert2](https://sweetalert2.github.io/).
+It features a clean UI, responsive components, AJAX form handling, and UX using [MDBootstrap](https://mdbootstrap.com/), [DataTables](https://datatables.net/), [Toastify](https://apvarun.github.io/toastify-js/), [SweetAlert2](https://sweetalert2.github.io/), and [jQuery](https://jquery.com/).
 
 > This system uses **SQLite**, Laravel’s built-in lightweight database, making it easy to set up locally by just configuring a single line in your `.env` file.
 
