@@ -67,7 +67,7 @@ Thumbs.db
 - PHP >= 8.1
 - Composer
 - Node.js and npm
-- SQLite (or MySQL/PostgreSQL with config changes)
+- SQLite 
 
 ---
 
