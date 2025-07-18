@@ -56,7 +56,7 @@ Thumbs.db
 - Modern UI with **MDBootstrap**, **Select2**, **DataTables**, and **SweetAlert2**
 - Modal-based AJAX editing
 - Search/filter authors and books
-- Database seeding with Faker
+- Database seeding with Faker (Dummy data -- generates 50 authors, each associated with 1 to 5 books for demonstration purposes.)
 - Laravel Blade templating and resource controllers
 
 ---
